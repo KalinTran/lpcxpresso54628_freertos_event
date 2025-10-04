@@ -1,0 +1,1 @@
+Folder contain Segger source files
